@@ -1,0 +1,5 @@
+Bir hayvanat bahçesi için bir proğram yazılmak isteniyor.
+Kedileri için (renk,kilo,cinsi)
+Köpekler için (renk,kilo,cinsi)
+Yılanlar için (renk,kilo,cinsi,uzunluk)
+Ördek için (renk,kilo,cinsi,kanatAcikligi)
